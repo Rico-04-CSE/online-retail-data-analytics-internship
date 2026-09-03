@@ -1,0 +1,27 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this internship project and the UCI Online Retail dataset.",
+  "title": "End-to-End Data Analytics Internship Project \u2014 UCI Online Retail",
+  "authors": [
+    {
+      "family-names": "Dey",
+      "given-names": "Pritam"
+    }
+  ],
+  "year": 2026,
+  "version": "1.0",
+  "references": [
+    {
+      "authors": [
+        {
+          "family-names": "Chen",
+          "given-names": "Daqing"
+        }
+      ],
+      "title": "Online Retail",
+      "year": 2015,
+      "publisher": "UCI Machine Learning Repository",
+      "doi": "10.24432/C5BW33"
+    }
+  ]
+}

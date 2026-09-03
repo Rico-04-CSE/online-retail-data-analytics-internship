@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / local configuration
+.env
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Airflow local files
+airflow/logs/
+airflow/airflow.cfg
+airflow/.airflowignore
+airflow/*.db
+
+# Generated databases
+*.sqlite
+*.db
+
+# Temporary outputs
+tmp/
+temp/
+
+# Keep project outputs only if intentionally committed.

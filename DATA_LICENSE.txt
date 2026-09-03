@@ -1,0 +1,19 @@
+DATASET LICENSE AND ATTRIBUTION
+
+Dataset:
+UCI Machine Learning Repository — Online Retail
+
+Source:
+https://archive.ics.uci.edu/dataset/352/online-retail
+
+Citation:
+Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository.
+https://doi.org/10.24432/C5BW33
+
+The UCI Online Retail dataset is licensed under Creative Commons Attribution
+4.0 International (CC BY 4.0).
+
+License:
+https://creativecommons.org/licenses/by/4.0/
+
+This repository's code is separate from the dataset's license.
